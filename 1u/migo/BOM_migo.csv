@@ -1,15 +1,15 @@
-Name,Designator,Quantity,Reference
-1N5817 ,"D2,D1",2,
-TL072,IC4,1,
-47p,"C1,C2",2,ceramic 
-100K,"R1,R2,R3,R5,R6",5,1%
-330,R4,1,1%
-100n,"C3,C4",2,ceramic 
-A100K,"P1,P2,P3,P4",4,
-Jack 3.5mm Mono ,"U1,U2,U3,U4",4,
-10uF Capacitor Electrolytic Low profile 25V ,"C5,C6",2,
-Ferrite Bead ,"F+,F- ",2,
-DIP-8 Socket ,,1,
-2x5 Male Pin Header 2.54mm ,,1,
-1x8 Male Pin Header 2.54mm ,,2,
-1x8 Female Pin Header 2.54mm ,,2,
+Name,Designator,Quantity,Reference,Link(Japan)
+1N5817 ,"D2,D1",2,,https://www.marutsu.co.jp/pc/i/46432488/
+TL072,IC4,1,,https://akizukidenshi.com/catalog/g/g116263/
+47p,"C1,C2",2,ceramic ,https://akizukidenshi.com/catalog/g/g116522/
+100K,"R1,R2,R3,R5,R6",5,1%,https://akizukidenshi.com/catalog/g/g108563/
+330,R4,1,1%,https://akizukidenshi.com/catalog/g/g108530/
+100n,"C3,C4",2,ceramic ,https://akizukidenshi.com/catalog/g/g116537/
+A100K,"P1,P2,P3,P4",4,,https://store.shopping.yahoo.co.jp/fujishima-ctm-gtr/r-vav-a100k-d.html
+Jack 3.5mm Mono ,"U1,U2,U3,U4",4,,https://www.thonk.co.uk/shop/thonkiconn/
+10uF Capacitor Electrolytic Low profile 25V ,"C5,C6",2,,https://www.marutsu.co.jp/pc/i/34341273/
+Ferrite Bead ,"F+,F- ",2,,https://akizukidenshi.com/catalog/g/g113369/
+DIP-8 Socket ,,1,,https://akizukidenshi.com/catalog/g/g100035/
+2x5 Male Pin Header 2.54mm ,,1,,https://akizukidenshi.com/catalog/g/g113635/
+1x8 Male Pin Header 2.54mm ,,2,,https://akizukidenshi.com/catalog/g/g104394/
+1x8 Female Pin Header 2.54mm ,,2,,https://akizukidenshi.com/catalog/g/g103785/
