@@ -1,22 +1,22 @@
 ID,Name,Designator,Quantity,Link(Japan),Link
-1,TL074,IC1,1,https://akizukidenshi.com/catalog/g/g116093/,
-2,IC Socket 14,,1,https://akizukidenshi.com/catalog/g/g100006,
-3,B100K Dual Gang T18 Shaft,P1,1,https://eleshop.jp/shop/g/g4BQ13U/,https://www.thonk.co.uk/shop/befaco-parts/
-4,2PS - Medium Pointer (T18 Shaft),,1,https://www.thonk.co.uk/shop/make-noise-mutable-style-knobs/,https://www.thonk.co.uk/shop/make-noise-mutable-style-knobs/
-5,"Thonkicon 3,5mm","J2,J1",2,https://www.thonk.co.uk/shop/thonkiconn/,https://www.thonk.co.uk/shop/thonkiconn/
-6,10pF ceramic,"C5,C4,C3,C6",4,https://akizukidenshi.com/catalog/g/g116519/,
-7,100n ceramic,"C22,C23",2,https://akizukidenshi.com/catalog/g/g116537/,
-8,2N3904(TO-92),"Q2,Q1",2,https://akizukidenshi.com/catalog/g/g130374/,
-9,2x5 Male Pin Header 2.54mm,,1,https://akizukidenshi.com/catalog/g/g113635/,
-10,2x3 Male Pin Header 2.54mm,U1,1,https://akizukidenshi.com/catalog/g/g116883/,
-11,FERRITE,"F+,F-",2,https://akizukidenshi.com/catalog/g/g113369/,
-12,100K,"R5,R1,R2,R12",4,https://akizukidenshi.com/catalog/g/g108563/,
-13,1K,"R16,R6,R7,R3,R15,R4",6,https://akizukidenshi.com/catalog/g/g108535/,
-14,39K,"R8,R9",2,https://akizukidenshi.com/catalog/g/g116653/,
-15,10K,"R11,R13,R10,R14",4,https://akizukidenshi.com/catalog/g/g108550/,
-16,1N5817,"D6,D5",2,https://www.marutsu.co.jp/pc/i/46432488/,
-17,LED green 3mm,"LED1,LED2",2,https://akizukidenshi.com/catalog/g/g111635/,
+1,TL074,IC1,1,https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html,
+2,IC Socket 14,,1,https://www.taydaelectronics.com/14-pin-dip-ic-socket-adaptor-solder-type.html,
+3,B100K Dual Gang T18 Shaft,P1,1,https://www.taydaelectronics.com/b-100k-ohm-linear-dual-taper-potentiometer-pc-mount-spline-shaft.html,https://www.thonk.co.uk/shop/befaco-parts/
+4,2PS - Medium Pointer (T18 Shaft),,1,https://www.taydaelectronics.com/knob-davies-1900h-clone-black-white-1.html,https://www.thonk.co.uk/shop/make-noise-mutable-style-knobs/
+5,"Thonkicon 3,5mm","J2,J1",2,https://www.taydaelectronics.com/pj-3001f-3-5-mm-mono-phone-jack.html,https://www.thonk.co.uk/shop/thonkiconn/
+6,10pF ceramic,"C5,C4,C3,C6",4,https://www.taydaelectronics.com/10-x-10pf-50v-ceramic-disc-capacitor-pkg-of-10.html,
+7,100n ceramic,"C22,C23",2,https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html,
+8,2N3904(TO-92),"Q2,Q1",2,https://www.taydaelectronics.com/2n3904-npn-general-propose-transistor.html,
+9,2x5 Male Pin Header 2.54mm,,1,https://www.taydaelectronics.com/2x40-pin-2-54-mm-double-row-pin-header-strip.html,
+10,2x3 Male Pin Header 2.54mm,U1,1,https://www.taydaelectronics.com/connectors-sockets/2x3-pin-2-54-mm-double-row-pin-header-strip.html,
+11,FERRITE,"F+,F-",2,https://www.taydaelectronics.com/axial-ferrite-bead-76-ohm.html,
+12,100K,"R5,R1,R2,R12",4,https://www.taydaelectronics.com/10-x-resistor-100k-ohm-1-4w-1-metal-film-pkg-of-10.html,
+13,1K,"R16,R6,R7,R3,R15,R4",6,https://www.taydaelectronics.com/10-x-resistor-1k-ohm-1-4w-1-metal-film-pkg-of-10.html,
+14,39K,"R8,R9",2,https://www.taydaelectronics.com/resistor-39k-ohm-1-4w-1-metal-film-pkg-of-10.html,
+15,10K,"R11,R13,R10,R14",4,https://www.taydaelectronics.com/10-x-resistor-10k-ohm-1-4w-1-metal-film-pkg-of-10.html,
+16,1N5817,"D6,D5",2,https://www.taydaelectronics.com/1n5817-diode-schottky-1a-20v.html,
+17,LED green 3mm,"LED1,LED2",2,https://www.taydaelectronics.com/led-3mm-green.html,
 18,10u Capacitor Electrolytic,"C1,C20,C13,C2",4,https://akizukidenshi.com/catalog/g/g117897/,
-19,1N4148,"D2,D3,D1,D4",4,https://akizukidenshi.com/catalog/g/g100941/,
-20,1x8 Male Pin Header 2.54mm,,2,https://akizukidenshi.com/catalog/g/g104394/,
-21,1x8 Female Pin Header 2.54mm,,2,https://akizukidenshi.com/catalog/g/g103785/,
+19,1N4148,"D2,D3,D1,D4",4,https://www.taydaelectronics.com/diodes/standard-diodes/1n4148-switching-signal-diode.html,
+20,1x8 Male Pin Header 2.54mm,,2,https://www.taydaelectronics.com/40-pin-2-54-mm-single-row-pin-header-strip.html,
+21,1x8 Female Pin Header 2.54mm,,2,https://www.taydaelectronics.com/40-pin-2-54-mm-single-row-female-pin-header.html,

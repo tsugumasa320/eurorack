@@ -1,15 +1,15 @@
 Name,Designator,Quantity,Reference,Link(Japan)
-1N5817 ,"D2,D1",2,,https://www.marutsu.co.jp/pc/i/46432488/
-TL072,IC4,1,,https://akizukidenshi.com/catalog/g/g116263/
-47p,"C1,C2",2,ceramic ,https://akizukidenshi.com/catalog/g/g116522/
-100K,"R1,R2,R3,R5,R6",5,1%,https://akizukidenshi.com/catalog/g/g108563/
-330,R4,1,1%,https://akizukidenshi.com/catalog/g/g108530/
-100n,"C3,C4",2,ceramic ,https://akizukidenshi.com/catalog/g/g116537/
-A100K,"P1,P2,P3,P4",4,,https://store.shopping.yahoo.co.jp/fujishima-ctm-gtr/r-vav-a100k-d.html
-Jack 3.5mm Mono ,"U1,U2,U3,U4",4,,https://www.thonk.co.uk/shop/thonkiconn/
+1N5817 ,"D2,D1",2,,https://www.taydaelectronics.com/1n5817-diode-schottky-1a-20v.html
+TL072,IC4,1,,https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
+47p,"C1,C2",2,ceramic ,https://www.taydaelectronics.com/47pf-50v-10-ceramic-disc-capacitor.html
+100K,"R1,R2,R3,R5,R6",5,1%,https://www.taydaelectronics.com/10-x-resistor-100k-ohm-1-4w-1-metal-film-pkg-of-10.html
+330,R4,1,1%,https://www.taydaelectronics.com/330-ohm-1-4w-1-metal-film-resistor.html
+100n,"C3,C4",2,ceramic ,https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html
+A100K,"P1,P2,P3,P4",4,,https://www.taydaelectronics.com/100k-ohm-logarithmic-taper-potentiometer-knurled-plastic-spline-shaft-pcb-9mm.html
+Jack 3.5mm Mono ,"U1,U2,U3,U4",4,,https://www.taydaelectronics.com/pj-3001f-3-5-mm-mono-phone-jack.html
 10uF Capacitor Electrolytic Low profile 25V ,"C5,C6",2,,https://www.marutsu.co.jp/pc/i/34341273/
-Ferrite Bead ,"F+,F- ",2,,https://akizukidenshi.com/catalog/g/g113369/
-DIP-8 Socket ,,1,,https://akizukidenshi.com/catalog/g/g100035/
-2x5 Male Pin Header 2.54mm ,,1,,https://akizukidenshi.com/catalog/g/g113635/
-1x8 Male Pin Header 2.54mm ,,2,,https://akizukidenshi.com/catalog/g/g104394/
-1x8 Female Pin Header 2.54mm ,,2,,https://akizukidenshi.com/catalog/g/g103785/
+Ferrite Bead ,"F+,F- ",2,,https://www.taydaelectronics.com/axial-ferrite-bead-76-ohm.html
+DIP-8 Socket ,,1,,https://www.taydaelectronics.com/connectors-sockets/sockets/8-pin-dip-ic-socket-adaptor-solder-type.html
+2x5 Male Pin Header 2.54mm ,,1,,https://www.taydaelectronics.com/2x40-pin-2-54-mm-double-row-pin-header-strip.html
+1x8 Male Pin Header 2.54mm ,,2,,https://www.taydaelectronics.com/40-pin-2-54-mm-single-row-pin-header-strip.html
+1x8 Female Pin Header 2.54mm ,,2,,https://www.taydaelectronics.com/40-pin-2-54-mm-single-row-female-pin-header.html

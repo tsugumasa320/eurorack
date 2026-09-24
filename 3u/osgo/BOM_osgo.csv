@@ -1,17 +1,17 @@
 ID,Name,Designator,Quantity,Link(Japan),Link,Mouser
 1,Micro Momentary Tact,"SW1,SW2,SW3,SW4",4,https://www.mouser.jp/ProductDetail/CK/KSA0V211-LFTR?qs=lYGu3FyN48fE1Eak2lSFJw%3D%3D,,
-2,thonkiconn,"U2,U1",2,https://www.thonk.co.uk/shop/thonkiconn/,https://www.thonk.co.uk/shop/thonkiconn/,
-3,B100K - T18 shaft - Alpha Vertical 9mm Potentiometer,RV1,1,https://ears-modular.com/products/%E5%9F%BA%E6%9D%BF%E7%94%A8%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97-t18-b100k,,
-4,switch ON-ON,SW5,1,https://akizukidenshi.com/catalog/g/g103774/,,
-5,ARDUINO-NANO3,U4,1,https://akizukidenshi.com/catalog/g/g109059/,,
-6,100n,"C4,C3,C2,C1",4,https://akizukidenshi.com/catalog/g/g116537/,,
-7,SSD1306 128x64 OLED (I2C / 0.96 Inches),U5,1,https://electronicwork.shop/items/63f16ee7e2f3b60f8b651ed0,https://www.amazon.de/gp/product/B01L9GC470/?th=1&language=en_GB,
-8,100K,"R1,R3",2,https://akizukidenshi.com/catalog/g/g108563/,,
-9,560K,R2,1,https://www.marutsu.co.jp/pc/i/1336/,,
-10,100,R4,1,https://akizukidenshi.com/catalog/g/g108522/,,
-11,1n4148,"D1,D2,D3,D4",4,https://akizukidenshi.com/catalog/g/g100941/,,
-12,1n5817,D5,1,https://www.marutsu.co.jp/pc/i/46432488/,,
-13,Socket 28P DIP (for the Arduino - Pin15/16 not in use),,1,https://akizukidenshi.com/catalog/g/g117293/,,571-1-2199299-2
-14,Spacers M3x10mm,,2,https://akizukidenshi.com/catalog/g/g107566/,,710-970100365
-15,M3x6 Black Screw,,4,https://store.shopping.yahoo.co.jp/nejiya/000200000030006008-b.html,,
-16,16-pin (2×8) jacketed pin header,,1,https://www.marutsu.co.jp/pc/i/50476542/,,517-N2516-6002RB
+2,thonkiconn,"U2,U1",2,https://www.taydaelectronics.com/pj-3001f-3-5-mm-mono-phone-jack.html,https://www.thonk.co.uk/shop/thonkiconn/,
+3,B100K - T18 shaft - Alpha Vertical 9mm Potentiometer,RV1,1,https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-knurled-plastic-spline-shaft-pcb-9mm.html,,
+4,switch ON-ON,SW5,1,https://www.taydaelectronics.com/electromechanical/switches-key-pad/toggle-switch/mini-toggle-switch-spdt-on-on.html,,
+5,ARDUINO-NANO3,U4,1,https://www.taydaelectronics.com/type-c-nano-3-0-controller-compatible-with-arduino-nano.html,,
+6,100n,"C4,C3,C2,C1",4,https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html,,
+7,SSD1306 128x64 OLED (I2C / 0.96 Inches),U5,1,https://www.taydaelectronics.com/0-96-inch-oled-white-character-display-module-4pins.html,https://www.amazon.de/gp/product/B01L9GC470/?th=1&language=en_GB,
+8,100K,"R1,R3",2,https://www.taydaelectronics.com/10-x-resistor-100k-ohm-1-4w-1-metal-film-pkg-of-10.html,,
+9,560K,R2,1,https://www.taydaelectronics.com/resistor-560k-ohm-1-4w-1-metal-film-pkg-of-10.html,,
+10,100,R4,1,https://www.taydaelectronics.com/resistor-100-ohm-1-4w-1-metal-film-pkg-of-10.html,,
+11,1n4148,"D1,D2,D3,D4",4,https://www.taydaelectronics.com/diodes/standard-diodes/1n4148-switching-signal-diode.html,,
+12,1n5817,D5,1,https://www.taydaelectronics.com/1n5817-diode-schottky-1a-20v.html,,
+13,Socket 28P DIP (for the Arduino - Pin15/16 not in use),,1,https://www.taydaelectronics.com/28-pin-dip-ic-socket-adaptor-solder-type.html,,571-1-2199299-2
+14,Spacers M3x10mm,,2,https://www.taydaelectronics.com/brass-standoff-spacer-screw-hex-female-m3x10mm-silver.html,,710-970100365
+15,M3x6 Black Screw,,4,https://www.taydaelectronics.com/m3-hexagon-socket-head-cap-screw-3x6mm-grade-12-9.html,,
+16,16-pin (2×8) jacketed pin header,,1,https://www.taydaelectronics.com/connectors-sockets/box-header-connectors/16-pin-box-header-connector-2-54mm.html,,517-N2516-6002RB

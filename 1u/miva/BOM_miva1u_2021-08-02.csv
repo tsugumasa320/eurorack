@@ -1,13 +1,13 @@
 MIVA 1u BOM,,,,,
 ,,,,,
 Name,Designator,Footprint,Quantity,Link(Japan),Link
-"Thonkicon 3,5mm ","CV1-8, G1-8",,16,https://www.thonk.co.uk/shop/thonkiconn/,
-LED 3mm green,"LED9,LED10,LED11,LED1,LED12,LED13,LED14,LED15,LED16,LED17,LED18",,11,https://akizukidenshi.com/catalog/g/g111635/,
-R220,"R25,R26,R27",R0603,3,https://akizukidenshi.com/catalog/g/g113833/,
-TACTILE-Switch,SW1,,1,https://akizukidenshi.com/catalog/g/g103647/,
-R1K,"R9,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50",R0603,24,https://akizukidenshi.com/catalog/g/g114122/,
-"USB BW USB panel socket, series B ",USB1,,1,https://www.digikey.jp/ja/products/detail/w%C3%BCrth-elektronik/61400413321/2508503,https://www.mouser.de/ProductDetail/710-61400413321
+"Thonkicon 3,5mm ","CV1-8, G1-8",,16,https://www.taydaelectronics.com/pj-3001f-3-5-mm-mono-phone-jack.html,
+LED 3mm green,"LED9,LED10,LED11,LED1,LED12,LED13,LED14,LED15,LED16,LED17,LED18",,11,https://www.taydaelectronics.com/led-3mm-green.html,
+R220,"R25,R26,R27",R0603,3,https://www.taydaelectronics.com/50-x-220ohm-1-10w-1-0603-smd-chip-resistors.html,
+TACTILE-Switch,SW1,,1,https://www.taydaelectronics.com/tact-switch-6-6mm-7mm-through-hole-spst-no-1.html,
+R1K,"R9,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50",R0603,24,https://www.taydaelectronics.com/50-x-1k-ohm-1-10w-1-0603-smd-chip-resistors.html,
+"USB BW USB panel socket, series B ",USB1,,1,https://www.taydaelectronics.com/usb-type-b-female-connector-dip.html,https://www.mouser.de/ProductDetail/710-61400413321
 MCP4822-E/SN,"IC1,IC2,IC3,IC4",SOIC-8,4,https://www.marutsu.co.jp/pc/i/13276097/,https://www.mouser.de/ProductDetail/579-MCP4822-E-SN
-C100n,"C5,C4,C2,C1,C6,C7",C0603,6,https://akizukidenshi.com/catalog/g/g116143/,
-SN74HC595D ,IC9,SOP-16 ,1,https://akizukidenshi.com/catalog/g/g110077/,https://www.mouser.de/ProductDetail/595-SN74HC595D
+C100n,"C5,C4,C2,C1,C6,C7",C0603,6,https://www.taydaelectronics.com/100nf-50v-smd-ceramic-chip-capacitor-0603.html,
+SN74HC595D ,IC9,SOP-16 ,1,https://www.taydaelectronics.com/ic-integrated-circuits/74-series/74hc-series/m74hc595adr2g-74hc595-74595-ic-8-bit-shift-register-smd.html,https://www.mouser.de/ProductDetail/595-SN74HC595D
 Teensy LC,Teensy LC,,1,https://www.ebay.com/itm/168694860268,

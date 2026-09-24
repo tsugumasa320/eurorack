@@ -1,14 +1,14 @@
 ID,Name,Designator,Quantity,Link(Japan)
-1,Jack 3.5mm Mono,"THONKICON10,THONKICON9",2,https://www.thonk.co.uk/shop/thonkiconn/
-2,B100K,"P5,P4",2,https://ears-modular.com/products/%E5%9F%BA%E6%9D%BF%E7%94%A8%E5%8F%AF%E5%A4%89%E6%8A%B5%E6%8A%97-t18-b100k
-3,Bicolour LED 3mm 2xTerminal,D4,1,https://www.mouser.jp/ProductDetail/Kingbright/WP937EGW
-4,47K,R9,1,https://akizukidenshi.com/catalog/g/g108560/
-5,10K,R10,3,https://akizukidenshi.com/catalog/g/g108550/
-6,100K,"R13,R12",3,https://akizukidenshi.com/catalog/g/g108563/
-7,1K,R11,1,https://akizukidenshi.com/catalog/g/g108535/
-8,3K,R33,1,https://akizukidenshi.com/catalog/g/g108543/
-9,100n Ceramic,"C19,C20",2,https://akizukidenshi.com/catalog/g/g116537/
-10,10p Ceramic,"C21,C22",2,https://akizukidenshi.com/catalog/g/g116519/
+1,Jack 3.5mm Mono,"THONKICON10,THONKICON9",2,https://www.taydaelectronics.com/pj-3001f-3-5-mm-mono-phone-jack.html
+2,B100K,"P5,P4",2,https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-knurled-plastic-spline-shaft-pcb-9mm.html
+3,Bicolour LED 3mm 2xTerminal,D4,1,https://www.taydaelectronics.com/bi-color-led-3mm-red-green.html
+4,47K,R9,1,https://www.taydaelectronics.com/10-x-resistor-47k-ohm-1-4w-1-metal-film-pkg-of-10.html
+5,10K,R10,3,https://www.taydaelectronics.com/10-x-resistor-10k-ohm-1-4w-1-metal-film-pkg-of-10.html
+6,100K,"R13,R12",3,https://www.taydaelectronics.com/10-x-resistor-100k-ohm-1-4w-1-metal-film-pkg-of-10.html
+7,1K,R11,1,https://www.taydaelectronics.com/10-x-resistor-1k-ohm-1-4w-1-metal-film-pkg-of-10.html
+8,3K,R33,1,https://www.taydaelectronics.com/resistor-3k-ohm-1-4w-1-metal-film-pkg-of-10.html
+9,100n Ceramic,"C19,C20",2,https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html
+10,10p Ceramic,"C21,C22",2,https://www.taydaelectronics.com/10-x-10pf-50v-ceramic-disc-capacitor-pkg-of-10.html
 11,10u Elko,"C1,C2",2,https://akizukidenshi.com/catalog/g/g117897/
-12,TL074,IC5,1,https://akizukidenshi.com/catalog/g/g116093/
-13,1N5817,"D1,D2",2,https://www.marutsu.co.jp/pc/i/46432488/
+12,TL074,IC5,1,https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html
+13,1N5817,"D1,D2",2,https://www.taydaelectronics.com/1n5817-diode-schottky-1a-20v.html
